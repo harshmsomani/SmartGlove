@@ -1,0 +1,6 @@
+tremors=0
+dyskinesia=0
+bands_difficulty=0
+sleep_quality=1
+time_since_medication=0_to_1_hrs
+feel_medication=yes
